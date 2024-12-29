@@ -1,0 +1,14 @@
+﻿<!-- CryptoTrader.Pilot.csproj -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CryptoTrader.Core\CryptoTrader.Core.csproj" />
+    <ProjectReference Include="..\CryptoTrader.Infrastructure\CryptoTrader.Infrastructure.csproj" />
+    <ProjectReference Include="..\CryptoTrader.Common\CryptoTrader.Common.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\bin\Debug\net8.0\CryptoTrader.Core.deps.json
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\bin\Debug\net8.0\CryptoTrader.Core.dll
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\bin\Debug\net8.0\CryptoTrader.Core.pdb
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\CryptoTrader.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\CryptoTrader.Core.AssemblyInfoInputs.cache
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\CryptoTrader.Core.AssemblyInfo.cs
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\CryptoTrader.Core.csproj.CoreCompileInputs.cache
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\CryptoTrader.Core.dll
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\refint\CryptoTrader.Core.dll
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\CryptoTrader.Core.pdb
+C:\Users\kahraman osgb\Desktop\CryptoTrader\CryptoTrader.Core\obj\Debug\net8.0\ref\CryptoTrader.Core.dll
